@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Derick Henrique da Silva, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi. Sou apaixonado por tecnologia e movido pelo constante desejo de aprender, evoluir e ampliar minhas competências no mundo da tecnologia.
+Eu me chamo Derick Henrique da Silva, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi. Sou apaixonado por tecnologia e movido pelo constante desejo de aprender, evoluir e ampliar minhas competências no mundo da tecnologia.
 
 ### 🤖Linguagens e Tecnologias
 
@@ -35,9 +35,11 @@ Me chamo Derick Henrique da Silva, tenho 22 anos e sou natural de São Paulo. At
   <a href="https://www.linkedin.com/in/derick-silva-124769233/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
   <a href="derickhsilva505@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  
   <a href="11 95919-7294" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
